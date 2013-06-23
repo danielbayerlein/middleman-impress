@@ -1,0 +1,16 @@
+!!!
+%html
+  %head
+    %meta{charset: 'utf-8'}
+    %meta{name: :viewport, content: 'width=1024'}
+    %meta{name: 'apple-mobile-web-app-capable', content: :yes}
+    %title= settings.title
+    %meta{name: :description, content: settings.description}
+    %meta{name: :author, content: settings.author}
+    = stylesheet_link_tag :application
+    = favicon_tag 'images/favicon.png'
+  %body.impress-not-supported
+    = yield
+    = javascript_include_tag :application
+    :javascript
+      impress().init();
