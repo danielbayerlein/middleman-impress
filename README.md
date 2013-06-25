@@ -1,7 +1,7 @@
 # middleman-impress
 
 **middleman-impress** is a [Middleman 3.x](http://middlemanapp.com) project
-template for [impress.js](http://bartaz.github.com/impress.js) (v0.5.3) with
+template for [impress.js](https://github.com/bartaz/impress.js) (v0.5.3) with
 [Haml](http://haml.info), [Sass](http://sass-lang.com) and
 [CoffeeScript](http://coffeescript.org).
 
@@ -34,7 +34,7 @@ Create a static file with:
 $ middleman build
 ```
 
-Do you need help with [impress.js](http://bartaz.github.com/impress.js)? See
+Do you need help with [impress.js](https://github.com/bartaz/impress.js)? See
 [examples and other learning resources](https://github.com/bartaz/impress.js#examples-and-other-learning-resources).
 
 More help is available on the official [Middleman](http://middlemanapp.com)
