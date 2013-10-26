@@ -18,7 +18,7 @@ template for [impress.js](https://github.com/bartaz/impress.js) (v0.5.3) with
    $ middleman init impress --template=middleman-impress
    ```
 
-3. Change your meta tags like `title`, `description` or `author` in `config.rb`.
+3. Change your meta tags like `title`, `description` and `author` in `config.rb`.
 
 ## Usage
 
