@@ -4,9 +4,9 @@
     %meta{charset: 'utf-8'}
     %meta{name: :viewport, content: 'width=1024'}
     %meta{name: 'apple-mobile-web-app-capable', content: :yes}
-    %title= settings.title
-    %meta{name: :description, content: settings.description}
-    %meta{name: :author, content: settings.author}
+    %title= config.impress[:title]
+    %meta{name: :description, content: config.impress[:description]}
+    %meta{name: :author, content: config.impress[:author]}
     = stylesheet_link_tag :application
     = favicon_tag 'images/favicon.png'
   %body.impress-not-supported

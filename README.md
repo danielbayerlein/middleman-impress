@@ -1,24 +1,19 @@
 # middleman-impress
 
-**middleman-impress** is a [Middleman 3.x](http://middlemanapp.com) project
+**middleman-impress** is a [Middleman 4.x](http://middlemanapp.com) project
 template for [impress.js](https://github.com/bartaz/impress.js) (v0.5.3) with
 [Haml](http://haml.info), [Sass](http://sass-lang.com) and
 [CoffeeScript](http://coffeescript.org).
 
 ## Installation
 
-1. Clone **middleman-impress** into `~/.middleman`.
-   You will need to create this directory if it doesn't exist.
-   ```bash
-   $ git clone https://github.com/danielbayerlein/middleman-impress.git ~/.middleman/middleman-impress
-   ```
+1. Create a new project with the template:
 
-2. Create a new project with the template:
-   ```bash
-   $ middleman init impress --template=middleman-impress
-   ```
+  ```bash
+  $ middleman init -T danielbayerlein/middleman-impress MY_PROJECT_FOLDER
+  ```
 
-3. Change your meta tags like `title`, `description` and `author` in `config.rb`.
+2. Change your meta tags like `title`, `description` and `author` in `config.rb`.
 
 ## Usage
 
