@@ -20,13 +20,13 @@ template for [impress.js](https://github.com/bartaz/impress.js) (v0.5.3) with
 Start a local web server running at `http://localhost:4567/` with:
 
 ```bash
-$ middleman server
+$ bundle exec middleman server
 ```
 
 Create a static file with:
 
 ```bash
-$ middleman build
+$ bundle exec middleman build
 ```
 
 Do you need help with [impress.js](https://github.com/bartaz/impress.js)? See
