@@ -1,7 +1,7 @@
 # middleman-impress
 
 **middleman-impress** is a [Middleman 4.x](http://middlemanapp.com) project
-template for [impress.js](https://github.com/bartaz/impress.js) (v0.5.3) with
+template for [impress.js](https://github.com/bartaz/impress.js) (v0.6.0) with
 [Haml](http://haml.info), [Sass](http://sass-lang.com) and
 [CoffeeScript](http://coffeescript.org).
 
