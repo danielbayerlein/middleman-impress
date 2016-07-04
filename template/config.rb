@@ -30,6 +30,9 @@ page '/*.txt', layout: false
 
 # General configuration
 
+# Middleman-Sprockets - https://github.com/middleman/middleman-sprockets
+activate :sprockets
+
 ###
 # Helpers
 ###
