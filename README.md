@@ -1,6 +1,6 @@
 # middleman-impress
 
-**middleman-impress** is a [Middleman 4.x](http://middlemanapp.com) project
+**middleman-impress** is a [Middleman 4.x](https://middlemanapp.com) project
 template for [impress.js](https://github.com/bartaz/impress.js) (v0.6.0) with
 [Haml](http://haml.info), [Sass](http://sass-lang.com) and
 [CoffeeScript](http://coffeescript.org).
@@ -32,7 +32,7 @@ bundle exec middleman build
 Do you need help with [impress.js](https://github.com/bartaz/impress.js)? See
 [examples and other learning resources](https://github.com/bartaz/impress.js#examples-and-other-learning-resources).
 
-More help is available on the official [Middleman](http://middlemanapp.com)
+More help is available on the official [Middleman](https://middlemanapp.com)
 website.
 
 ## Contributing
