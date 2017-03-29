@@ -10,7 +10,7 @@ template for [impress.js](https://github.com/bartaz/impress.js) (v0.6.0) with
 1. Create a new project with the template:
 
   ```bash
-  $ middleman init -T danielbayerlein/middleman-impress MY_PROJECT_FOLDER
+  middleman init -T danielbayerlein/middleman-impress MY_PROJECT_FOLDER
   ```
 
 2. Change your meta tags like `title`, `description` and `author` in `config.rb`.
@@ -20,13 +20,13 @@ template for [impress.js](https://github.com/bartaz/impress.js) (v0.6.0) with
 Start a local web server running at `http://localhost:4567/` with:
 
 ```bash
-$ bundle exec middleman server
+bundle exec middleman server
 ```
 
 Create a static file with:
 
 ```bash
-$ bundle exec middleman build
+bundle exec middleman build
 ```
 
 Do you need help with [impress.js](https://github.com/bartaz/impress.js)? See
